@@ -1,2 +1,2 @@
-# bootik
-Bootik shopping center platform sample project
+# bootik-django-backend
+پروژه رایگان بوتیک
